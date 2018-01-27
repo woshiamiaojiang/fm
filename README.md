@@ -1,4 +1,4 @@
 # fm
 千年の戀FM App
 
-基于 https://github.com/k-water/vue-music 二次开发作品
+产品基于 https://github.com/k-water/vue-music 二次开发
