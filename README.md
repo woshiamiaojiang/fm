@@ -5,6 +5,12 @@
 
  ![fm二维码](http://ww2.sinaimg.cn/large/005zWjpnly1fnv2cudganj307s07sdfl.jpg)
 
-基于 https://github.com/k-water/vue-music 二次开发
+基于 
+
+https://github.com/k-water/vue-music 
+
+https://github.com/Sioxas/vue-music
+
+二次开发
 
 
