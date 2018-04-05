@@ -1,5 +1,5 @@
 # fm
-千年の戀FM|App http://miion.me/fm/
+千年の戀FM app http://miion.me/fm/
 
 微信扫码效果更好
 
